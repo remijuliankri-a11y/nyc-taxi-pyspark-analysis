@@ -45,7 +45,7 @@ evaluation across two taxi datasets (Yellow and Green, 2020–2024).
 | Hadoop Client | 3.3.5 |
 | SQLite JDBC | 3.36.0.3 |
 
-## Project Structure
+```
 BDS4100_PROJECT/
 ├── Green_Clean_Chunks/
 ├── Yellow_Clean_Chunks/
@@ -56,6 +56,7 @@ BDS4100_PROJECT/
 ├── nyc_yellow_taxi.db
 ├── sqlite-jdbc-3.36.0.3.jar
 └── taxi_zone_lookup.csv
+```
 
 ## How to Run
 
