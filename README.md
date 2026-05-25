@@ -61,8 +61,8 @@ BDS4100_PROJECT/
 ## How to Run
 
 Only two external files are needed to re-run from scratch:
-- `taxi_zone_lookup.csv` (included)
-- `sqlite-jdbc-3.36.0.3.jar` (included)
+- taxi_zone_lookup.csv (included in repository)
+- sqlite-jdbc-3.36.0.3.jar (download separately from Maven Repository)
 
 All other files (Parquet, CSV, cleaned chunks, SQLite DBs) are generated 
 automatically during execution. All results, plots, and outputs are already 
